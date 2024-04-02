@@ -15,7 +15,7 @@ HISTORY:
 
 
 // Duration of the interval between two stimuli during a training.
-const dur       TRAIN_ITI                       = 650ms;
+const dur       TRAIN_ITI                       = 400ms;
 
 // Duration between test trials
 const dur       INTERTRIAL_INTERVAL             = 1s;
