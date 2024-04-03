@@ -360,8 +360,8 @@ TestItem[] test_items_l1_3 = {
 TestItem[] test_items_l1_4 = {
     {1, TT_4, "4.mip_huf_sot"},
     {2, TT_4, "4.mip_jik_sot"},
-    {3, TT_4, "4.pem_kof_dos"},
-    {4, TT_4, "4.pem_ves_dos"},
+    {3, TT_4, "4.mip_jal_sot"},
+    {4, TT_4, "4.pem_nup_sot"},
 }
 
 TestItem[] test_items_l1_5 = {
@@ -394,10 +394,10 @@ TestItem[] test_items_l2_3 = {
 };
 
 TestItem[] test_items_l2_4 = {
-    {1, TT_4, "4.mip_kof_sot"},
-    {2, TT_4, "4.mip_ves_sot"},
-    {3, TT_4, "4.pem_huf_dos"},
-    {4, TT_4, "4.pem_jik_dos"},
+    {1, TT_4, "4.pem_huf_dos"},
+    {2, TT_4, "4.pem_jal_dos"},
+    {3, TT_4, "4.pem_jik_dos"},
+    {4, TT_4, "4.pem_nup_dos"},
 };
 
 TestItem[] test_items_l2_5 = {
