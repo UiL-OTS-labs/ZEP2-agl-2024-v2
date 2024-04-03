@@ -14,7 +14,7 @@ Block task
             pause_page.set_text(
                 "<b>Woorden van de Eerste Luistertaak</b>\n"
                 "\n"
-                "Je ziet nu tweelettergrepige woorden een voor een verschijnen op het scherm."
+                "Je ziet nu eenlettergrepige woorden een voor een verschijnen op het scherm."
                 "Geef voor ieder woord zo snel en accuraat mogelijk aan of je het woord"
                 "gehoord hebt tijdens de <i> eerste luistertaak </i> of niet. \n"
                 "\n"
