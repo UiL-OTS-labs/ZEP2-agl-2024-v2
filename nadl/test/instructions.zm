@@ -1,6 +1,6 @@
 
 const string PRE_TRAIN_INSTRUCTION = 
-	"In dit eerste deel van het onderzoek krijg je een fantasie taal te horen!\n\n"
+	"In dit eerste deel van het onderzoek krijg je een fantasietaal te horen!\n\n"
 	"Er zijn in totaal drie fases (3 minuten/fase). Tijdens elke fase hoor je "
 	"klankenreeksen die representatief zijn voor deze taal.\n\n"
 	"Na elke fase volgt een korte test: je krijgt enkele klankenreeksen te horen "
@@ -19,8 +19,10 @@ const string TRAIN_PROMPT = "Luister naar de fantasie klankenreeksen.";
 const string PRE_TEST_INSTRUCTION = 
     "Je gaat nu een aantal vragen beantwoorden.\n\n"
     "Je krijgt een aantal woorden te horen. Geef voor elke klankenreeks "
-    "aan hoe waarschijnlijk het is dat deze uit de fantasie taal komt "
+    "aan hoe waarschijnlijk het is dat deze uit de fantasietaal komt "
     "die je net hebt gehoord.\n\n"
+    "De helft van de woorden komt uit de taal die je zojuist heb gehoord "
+    "en de helft van de woorden niet. "
     "Niet alle woorden in deze test zijn voorgekomen in de taal die je net "
     "hoorde, maar je kunt nog steeds het woord selecteren dat het meest "
     "waarschijnlijk uit deze taal komt.\n\n"
@@ -32,7 +34,7 @@ const string PRE_TEST_INSTRUCTION_SHORT =
 
 const string TEST_QUESTION = 
     "Geef aan hoe waarschijnlijk het is dat deze klankenreeks uit de "
-    "fantasie taal komt.";
+    "fantasietaal komt.";
 
 const string TEST_RESP_TABLE = 
     "1: zeer onwaarschijnlijk\n"
