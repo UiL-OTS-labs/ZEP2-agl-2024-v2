@@ -361,7 +361,7 @@ TestItem[] test_items_l1_4 = {
     {1, TT_4, "4.mip_huf_sot"},
     {2, TT_4, "4.mip_jik_sot"},
     {3, TT_4, "4.mip_jal_sot"},
-    {4, TT_4, "4.pem_nup_sot"},
+    {4, TT_4, "4.mip_nup_sot"},
 }
 
 TestItem[] test_items_l1_5 = {
