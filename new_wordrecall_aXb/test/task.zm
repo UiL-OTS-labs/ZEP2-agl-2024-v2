@@ -12,15 +12,15 @@ Block task
         {
 //            pause_page.set_text_size(1000, 600);
             pause_page.set_text(
-                "<b>Woorden van de Eerste Luistertaak</b>\n"
+                "<b>Klanken van de Eerste Luistertaak</b>\n"
                 "\n"
-                "Je ziet nu eenlettergrepige woorden een voor een verschijnen op het scherm."
-                "Geef voor ieder woord zo snel en accuraat mogelijk aan of je het woord"
+                "Je ziet nu eenlettergrepige klanken een voor een verschijnen op het scherm."
+                "Geef voor ieder klank zo snel en accuraat mogelijk aan of je deze klank "
                 "gehoord hebt tijdens de <i> eerste luistertaak </i> of niet. \n"
                 "\n"
-                "Als je het woord gehoord hebt klik je op <i>YES</i>. "
+                "Als je deze klank gehoord hebt klik je op <i>JA</i>. "
                 "\n"
-                "Als niet, klik dan op <i>NO</i>. \n"
+                "Als niet, klik dan op <i>NEE </i>. \n"
                 "\n"
                 "<i> Druk CONTINUE om de test te beginnen.</i>", 
                 true);
